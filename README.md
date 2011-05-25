@@ -16,6 +16,7 @@ You can tell the script which IE versions it should target by specifying the `v`
 
 
 ## LICENSE
+
     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
     Version 2, December 2004
     
