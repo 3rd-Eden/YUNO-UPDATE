@@ -16,16 +16,16 @@ You can tell the script which IE versions it should target by specifying the `v`
 
 
 ## LICENSE
-DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-Version 2, December 2004
-
-Copyright (C) 2011 Arnout Kazemier <blog.3rd-Eden.com>
-
-Everyone is permitted to copy and distribute verbatim or modified
-copies of this license document, and changing it is allowed as long
-as the name is changed.
-
-  DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
-0. You just DO WHAT THE FUCK YOU WANT TO.
+    DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+    Version 2, December 2004
+    
+    Copyright (C) 2011 Arnout Kazemier <blog.3rd-Eden.com>
+    
+    Everyone is permitted to copy and distribute verbatim or modified
+    copies of this license document, and changing it is allowed as long
+    as the name is changed.
+    
+      DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+      TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+    
+    0. You just DO WHAT THE FUCK YOU WANT TO.
