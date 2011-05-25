@@ -1,6 +1,6 @@
 # YUNO UPDATE
 
-![Y U NO UPDATE?](https://github.com/3rd-Eden/YUNO-UPDATE/blob/master/bin/example.png)
+![Y U NO UPDATE?](https://github.com/3rd-Eden/YUNO-UPDATE/raw/master/bin/example.png)
 
 That is the question that Internet Explorer users should be asking them selfs. Because for some odd reason they don't think of that by them self I decided to script up a simple solution. So behold! `yuno.js` a simple lighweight script  that you can add to your site and it will ask your IE users to update. 
 
