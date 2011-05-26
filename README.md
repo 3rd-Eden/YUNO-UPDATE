@@ -8,7 +8,7 @@ That is the question that Internet Explorer users should be asking themselves. B
 Simply add the script tag to the bottom of your page, just above the closing body tag and you are done:
 
 ```html
-<script type="text/javascript" src="https://github.com/3rd-Eden/YUNO-UPDATE/blob/master/lib/yuno.min.js?v=7"></script>
+<script type="text/javascript" src="https://github.com/3rd-Eden/YUNO-UPDATE/raw/master/lib/yuno.min.js?v=7"></script>
 ```
 
 ### Configuration
