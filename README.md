@@ -2,10 +2,10 @@
 
 ![Y U NO UPDATE?](https://github.com/3rd-Eden/YUNO-UPDATE/raw/master/bin/example.png)
 
-That is the question that Internet Explorer users should be asking them selfs. Because for some odd reason they don't think of that by them self I decided to script up a simple solution. So behold! `yuno.js` a simple lighweight script  that you can add to your site and it will ask your IE users to update. 
+That is the question that Internet Explorer users should be asking themselves. Because for some odd reason they don't think of that by them self I decided to script up a simple solution. So behold! `yuno.js` a simple lightweight script  that you can add to your site and it will ask your IE users, Y U NO UPDATE?. 
 
 ## Installation
-Add a simple script tag to the bottom of your page and you are done:
+Simply add the script tag to the bottom of your page, just above the closing body tag and you are done:
 
 ```html
 <script type="text/javascript" src="https://github.com/3rd-Eden/YUNO-UPDATE/blob/master/lib/yuno.min.js?v=7"></script>
@@ -14,6 +14,8 @@ Add a simple script tag to the bottom of your page and you are done:
 ### Configuration
 You can tell the script which IE versions it should target by specifying the `v` parameter in the query string. In the example above the script will target all IE users that have version **LOWER** than 7.
 
+### Example
+Open [http://3rd-eden.com/YUNO-UPDATE/](http://3rd-eden.com/YUNO-UPDATE/) in your browser using a old Internet Explorer build.
 
 ## LICENSE
 
